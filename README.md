@@ -22,3 +22,22 @@ bundle exec jekyll serve
 ```
 
 Y después acceder a http://127.0.0.1:4000.
+
+# Escribir nuevas tarjetas
+
+## Cómo agregar iconos de acciones
+
+Para agregar un icono hay que usar la clase "icono" mediante html. Por ejemplo:
+
+```
+Usa <span class="icono">[one-action]</span> para hacer algo importante.
+```
+
+Se pueden usar los siguientes valores:
+
+- Single Action: [one-action]
+- Two-Action Activity: [two-actions]
+- Three-Action Activity: [three-actions]
+- Reaction: [reaction]
+- Free Action: [free-action]
+
