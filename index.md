@@ -13,6 +13,6 @@ Actualmente el contenido es escaso, pero se pretende ir agregando diferentes tar
 # Índice de tipos de tarjetas
 
 - Clases
-- Dotes
+- [Dotes](dotes/index.md)
 - Habilidades
 - Mágia
