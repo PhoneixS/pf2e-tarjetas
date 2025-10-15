@@ -1,4 +1,4 @@
-# Tarjetas de Pathfinder 2
+# Sobre el sitio
 
 En este sitio podrás encontrar una variedad de tarjetas listas para imprimir y así facilitar a los jugadores (o incluso al Master) que pueden hacer o qué habilidades tienen disponibles.
 
