@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: pathfinderIcons;
+    src: url(../Pathfinder-Icons.ttf);
+}
+
+.icono {
+    font-family: pathfinderIcons;
+}
