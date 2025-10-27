@@ -11,3 +11,36 @@
 .icono {
     font-family: pathfinderIcons;
 }
+
+#main_content {
+
+    h1 {
+
+        text-align: start;
+
+        .tipo {
+            display: flex;
+            float: right;
+        }
+    }
+
+    ul:first-of-type {
+
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+
+        li {
+            display: inline-block;
+            background: #7c334f;
+            border: 2px solid #cd596b;
+            border-radius: 5px;
+            padding: 1ex;
+            vertical-align: middle;
+            color: #e69b95;
+            font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
+            
+        }
+    }
+
+}
